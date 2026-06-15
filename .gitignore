@@ -1,0 +1,9 @@
+.env
+bridge_state.json
+transcript.jsonl
+bridge.log
+*.log
+*.bak*
+__pycache__/
+*.pyc
+mcp_qadir.json
